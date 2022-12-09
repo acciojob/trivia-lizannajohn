@@ -1,10 +1,10 @@
 /* Your CSS Code here. */
-.question
+h5
 {
     font-weight: bold;
 }
 
-.quiz
+blockquote
 {
     max-width: 600px;
     margin: 10px;
