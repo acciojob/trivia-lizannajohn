@@ -1,4 +1,9 @@
 /* Your CSS Code here. */
+.question
+{
+    font-weight: bold;
+}
+
 .quiz
 {
     max-width: 600px;
